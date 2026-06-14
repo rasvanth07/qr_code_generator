@@ -52,3 +52,6 @@ python barcodegenerator.py  # Generate barcode
 ```
 
 > Made with rasvanth07 and vignesh0x — Feel free to fork and improve this guide!
+
+## 🤝 Contributing
+Pull requests are welcome! If you'd like to add new services or suggest new features, feel free to fork the repository and open a PR.
